@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1440123666420655185
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5551554317079623354}
+  - component: {fileID: 2097139622906455806}
+  m_Layer: 0
+  m_Name: InventoryManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5551554317079623354
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1440123666420655185}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2097139622906455806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1440123666420655185}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92f67050bd6960b479b5509f841cbc42, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemListSO: {fileID: 0}
+  constructionList:
+  - {fileID: 1982368952154928, guid: 839cb4cbbcc4c54459297db52332efa1, type: 3}
+  - {fileID: 1076253524014866, guid: e660989e3cd39b0439ca14e2c7369938, type: 3}
+  - {fileID: 1282404491531254, guid: a121d32ef0a226a459036bdbc16455ea, type: 3}
+  - {fileID: 1334856565783354, guid: cfe372357392bfc49a631f6dfb62bbb1, type: 3}
+  - {fileID: 1372719032071574, guid: 74f04d972a0675c45ac56c3a8e0f30c4, type: 3}
+  - {fileID: 1211169766027848, guid: 486897b2b94b3664da99ce6f48ac62cb, type: 3}
+  - {fileID: 1487528082976820, guid: d671b2b3dae0c254ea0925e69cfa667b, type: 3}
+  - {fileID: 1481997068777446, guid: cf782ee04eec8b34bb78b9bcf9dab92a, type: 3}
+  - {fileID: 1993871504015766, guid: 5f233c5bb4cb5ba41b2d790aede3bcee, type: 3}
+  - {fileID: 1820578872569314, guid: 8459d2d575caf3742b837875922c5e95, type: 3}
+  - {fileID: 1867233408252308, guid: 30e869da5c345464eb905a3dfb869ad3, type: 3}
+  - {fileID: 1042920087882922, guid: 53cc8692c5de61148b5301830771ad99, type: 3}
+  - {fileID: 1166598502457088, guid: 1f96f1899d54a8446b48d5a525237154, type: 3}
+  - {fileID: 1740534072007872, guid: af379eb3bb200574a80c24d641fcf853, type: 3}
+  - {fileID: 1566994513990640, guid: 6e157f42486945e4ca027b80d70c0a5c, type: 3}
+  - {fileID: 1800176387728604, guid: d90ea0162bb47b54d903c852a6d0f618, type: 3}
+  - {fileID: 1720421314788298, guid: fd4517956020aa54989cd9a8a7e55b1b, type: 3}
+  - {fileID: 1938197716418238, guid: 408af9f2b6062b4449d4b84d945fdd57, type: 3}
+  - {fileID: 1705497938415248, guid: 462efeb944acff8449ca0adecdc9842d, type: 3}
+  - {fileID: 1004403150051996, guid: d0942da8e0756d64fa0dc5f970badb08, type: 3}
+  - {fileID: 1116056472700570, guid: 167ccd36f78cceb46a4d150b76b96fab, type: 3}
+  - {fileID: 1132628069060346, guid: 6f1e34f627ea823418d94ad9986dd468, type: 3}
+  - {fileID: 1947328856299212, guid: f8c03799d60ef1e4696251922cde2e33, type: 3}
+  - {fileID: 1738913930875800, guid: c44a70c086ff8184e8229c420d455f5b, type: 3}
+  - {fileID: 1979192793806112, guid: 13e16b54a36630b47a45a61f063ef373, type: 3}
+  - {fileID: 1404284043269724, guid: 17ad28e3b260df24480db2f8dd6a7e09, type: 3}
+  - {fileID: 1992869141004190, guid: 7d2a3e6b10ff754459b3f619a0b22e90, type: 3}
+  - {fileID: 1957675866387746, guid: b65f39ca66ec7fc4e8b39ef856a7125d, type: 3}
+  - {fileID: 1291088702013892, guid: 5eb69a259abef0b44b353ae0837d5764, type: 3}
+  inventoryItem: {fileID: 4000041133489584676, guid: 9e07721abe78b1d41958c8752e239757, type: 3}
+  loadedInventory: 0
+  innventoryScroll: {fileID: 0}
+  itemLists: []
+  buildingContentView: {fileID: 0}
+  propsContentView: {fileID: 0}
+  vegetationContentView: {fileID: 0}
+  bannerContentView: {fileID: 0}
+  showAllContentView: {fileID: 0}
+  canvasUiInventory: {fileID: 0}

@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5cf75d3ee4c9a3468c4b086d7922f89, type: 3}
+  m_Name: Classical Building
+  m_EditorClassIdentifier: 
+  itemDetails:
+  - itemCode: 10001
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 324b291d54eb2994b9ce58ea202ec315, type: 3}
+    itemTitle: rus_build_2et_01
+    itemModel: {fileID: 1982368952154928, guid: 839cb4cbbcc4c54459297db52332efa1, type: 3}
+  - itemCode: 10002
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 00a2e9eea24865d46b450b807921dc10, type: 3}
+    itemTitle: rus_build_2et_01a
+    itemModel: {fileID: 1076253524014866, guid: e660989e3cd39b0439ca14e2c7369938, type: 3}
+  - itemCode: 10003
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 09db7d07e4e637b45b09ff6f6897b132, type: 3}
+    itemTitle: rus_build_2et_01b
+    itemModel: {fileID: 1282404491531254, guid: a121d32ef0a226a459036bdbc16455ea, type: 3}
+  - itemCode: 10004
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 08464d0408e48084fbcc84703e76683c, type: 3}
+    itemTitle: rus_build_2et_01c
+    itemModel: {fileID: 1334856565783354, guid: cfe372357392bfc49a631f6dfb62bbb1, type: 3}
+  - itemCode: 10005
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 517c6b55857a10d4798cf3b90f1b3fdd, type: 3}
+    itemTitle: rus_build_4et_01
+    itemModel: {fileID: 1372719032071574, guid: 74f04d972a0675c45ac56c3a8e0f30c4, type: 3}
+  - itemCode: 10006
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: a18a6300a0b8e374a838fc3ed6fa5bad, type: 3}
+    itemTitle: rus_build_4et_01a
+    itemModel: {fileID: 1211169766027848, guid: 486897b2b94b3664da99ce6f48ac62cb, type: 3}
+  - itemCode: 10007
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: de1a5208b9405644fafee8c730ac282d, type: 3}
+    itemTitle: rus_build_5et_01
+    itemModel: {fileID: 1487528082976820, guid: d671b2b3dae0c254ea0925e69cfa667b, type: 3}
+  - itemCode: 10008
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 3a333db917b0c3a4d88d515d4da5f273, type: 3}
+    itemTitle: rus_build_5et_01a
+    itemModel: {fileID: 1481997068777446, guid: cf782ee04eec8b34bb78b9bcf9dab92a, type: 3}
+  - itemCode: 10009
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 20875ef9e2f05924ca6b189c8f3412a5, type: 3}
+    itemTitle: rus_build_5et_02
+    itemModel: {fileID: 1993871504015766, guid: 5f233c5bb4cb5ba41b2d790aede3bcee, type: 3}
+  - itemCode: 10010
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 949eb75ba18ef264ca180e7535551f31, type: 3}
+    itemTitle: rus_build_5et_02a
+    itemModel: {fileID: 1820578872569314, guid: 8459d2d575caf3742b837875922c5e95, type: 3}
+  - itemCode: 10011
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: ad7f2155c85ea994698ef3e194458eb2, type: 3}
+    itemTitle: rus_build_5et_03
+    itemModel: {fileID: 1867233408252308, guid: 30e869da5c345464eb905a3dfb869ad3, type: 3}
+  - itemCode: 10012
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 27bb2f0a0f63e1444b87663fd57ae037, type: 3}
+    itemTitle: rus_build_5et_03a
+    itemModel: {fileID: 1042920087882922, guid: 53cc8692c5de61148b5301830771ad99, type: 3}
+  - itemCode: 10013
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 5f5f87800f9f0a94587f73e97149bc09, type: 3}
+    itemTitle: rus_build_5et_03b
+    itemModel: {fileID: 1166598502457088, guid: 1f96f1899d54a8446b48d5a525237154, type: 3}
+  - itemCode: 10014
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 395045ed9f162664d846b21f3540982f, type: 3}
+    itemTitle: rus_build_5et_03c
+    itemModel: {fileID: 1740534072007872, guid: af379eb3bb200574a80c24d641fcf853, type: 3}
+  - itemCode: 10015
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: c10fe0ebd6a3d924ead42f9216f292d4, type: 3}
+    itemTitle: rus_build_5et_03d
+    itemModel: {fileID: 1566994513990640, guid: 6e157f42486945e4ca027b80d70c0a5c, type: 3}
+  - itemCode: 10016
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: b74c3b0d9840759498d0f028612a3879, type: 3}
+    itemTitle: rus_build_5et_03e
+    itemModel: {fileID: 1800176387728604, guid: d90ea0162bb47b54d903c852a6d0f618, type: 3}
+  - itemCode: 10017
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 5c45b308ed252f242999959fe7e0bdce, type: 3}
+    itemTitle: rus_build_5et_03f
+    itemModel: {fileID: 1720421314788298, guid: fd4517956020aa54989cd9a8a7e55b1b, type: 3}
+  - itemCode: 10018
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 4f3e3b4c2b33617478e4fe3cc7bc8255, type: 3}
+    itemTitle: rus_build_5et_04
+    itemModel: {fileID: 1938197716418238, guid: 408af9f2b6062b4449d4b84d945fdd57, type: 3}
+  - itemCode: 10019
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 4fe566c690a7dbe4eb11701bb39570ca, type: 3}
+    itemTitle: rus_build_5et_05
+    itemModel: {fileID: 1705497938415248, guid: 462efeb944acff8449ca0adecdc9842d, type: 3}
+  - itemCode: 10020
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 15ef0bacc392eaf4f8d6c3274c64651d, type: 3}
+    itemTitle: rus_build_5et_06
+    itemModel: {fileID: 1004403150051996, guid: d0942da8e0756d64fa0dc5f970badb08, type: 3}
+  - itemCode: 10021
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: a63d6cec544d56a4da24890ac6654ba5, type: 3}
+    itemTitle: rus_build_9et_01
+    itemModel: {fileID: 1116056472700570, guid: 167ccd36f78cceb46a4d150b76b96fab, type: 3}
+  - itemCode: 10022
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 44b9c5daf650b384ba6c5a8f027417db, type: 3}
+    itemTitle: rus_build_9et_01a
+    itemModel: {fileID: 1132628069060346, guid: 6f1e34f627ea823418d94ad9986dd468, type: 3}
+  - itemCode: 10023
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: ac1a85b42b923874584dd990a825b7bf, type: 3}
+    itemTitle: rus_build_9et_01b
+    itemModel: {fileID: 1947328856299212, guid: f8c03799d60ef1e4696251922cde2e33, type: 3}
+  - itemCode: 10024
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: ca9bfe0aa402e234eaf9fffec850b472, type: 3}
+    itemTitle: rus_build_9et_02
+    itemModel: {fileID: 1738913930875800, guid: c44a70c086ff8184e8229c420d455f5b, type: 3}
+  - itemCode: 10025
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 89120c68a4b407a48a98d137ca23027e, type: 3}
+    itemTitle: rus_build_9et_02a
+    itemModel: {fileID: 1979192793806112, guid: 13e16b54a36630b47a45a61f063ef373, type: 3}
+  - itemCode: 10026
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 7204fe8725f64484984d9f17c1fb5211, type: 3}
+    itemTitle: rus_build_9et_02b
+    itemModel: {fileID: 1404284043269724, guid: 17ad28e3b260df24480db2f8dd6a7e09, type: 3}
+  - itemCode: 10027
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 221af84a74418dc4a9f6b4d8ef95b6a3, type: 3}
+    itemTitle: rus_build_9et_03
+    itemModel: {fileID: 1992869141004190, guid: 7d2a3e6b10ff754459b3f619a0b22e90, type: 3}
+  - itemCode: 10028
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: 2a53867a2f4bd504494a3c37de346251, type: 3}
+    itemTitle: rus_build_9et_03a
+    itemModel: {fileID: 1957675866387746, guid: b65f39ca66ec7fc4e8b39ef856a7125d, type: 3}
+  - itemCode: 10029
+    itemType: 0
+    itemImage: {fileID: 21300000, guid: a21605a81c9fb294089185d34f9c4d9d, type: 3}
+    itemTitle: rus_build_9et_03b
+    itemModel: {fileID: 1291088702013892, guid: 5eb69a259abef0b44b353ae0837d5764, type: 3}
+  - itemCode: 10030
+    itemType: 3
+    itemImage: {fileID: 21300000, guid: 8268bbd3ff2b4364ca6cf8c4d67abe92, type: 3}
+    itemTitle: Fir_Tree
+    itemModel: {fileID: 192044, guid: 19682540d8a014522a319b1cf788aee2, type: 3}
+  - itemCode: 10031
+    itemType: 3
+    itemImage: {fileID: 21300000, guid: 39862a6e9223b6c49bde8a79982854fa, type: 3}
+    itemTitle: Oak_Tree
+    itemModel: {fileID: 191266, guid: c44bd9bdc114d4a60932c0087d9d1732, type: 3}
+  - itemCode: 10032
+    itemType: 3
+    itemImage: {fileID: 21300000, guid: 33b98d6c95fabb94e9a0df3a1dcda375, type: 3}
+    itemTitle: Palm_Tree
+    itemModel: {fileID: 188006, guid: c6b7fb383a3534b039692b5485b6e739, type: 3}
+  - itemCode: 10033
+    itemType: 3
+    itemImage: {fileID: 21300000, guid: eb46bf44909f0e946b4be8231a79997d, type: 3}
+    itemTitle: Poplar_Tree
+    itemModel: {fileID: 137650, guid: 826b6a0b570e8460990010fa615b5a2a, type: 3}
+  - itemCode: 10034
+    itemType: 4
+    itemImage: {fileID: 21300000, guid: 90a823c4d2eb8034fa41c5ae951edafd, type: 3}
+    itemTitle: Big Rig
+    itemModel: {fileID: 1123273381722132, guid: f042cb04bb98f4649ad4d54da66f8100, type: 3}
+  - itemCode: 10035
+    itemType: 4
+    itemImage: {fileID: 21300000, guid: 212fe5a5d34ee624a8b9362de2fc3e4e, type: 3}
+    itemTitle: Car1
+    itemModel: {fileID: 1663436209126694, guid: 0c015dbff2c36e94089df72dedec0b0e, type: 3}
+  - itemCode: 10036
+    itemType: 4
+    itemImage: {fileID: 21300000, guid: 1b95579d653e06248b427cce61168d4e, type: 3}
+    itemTitle: Police Car
+    itemModel: {fileID: 1760531803293426, guid: 38578129bfa01a24e8383820c8fb1613, type: 3}
+  - itemCode: 10037
+    itemType: 4
+    itemImage: {fileID: 21300000, guid: f0cd7c12179d2d442bc8214e33866c28, type: 3}
+    itemTitle: Taxi
+    itemModel: {fileID: 1477075205395052, guid: 905302bafe1c35d41a358c50fbbaf5b5, type: 3}
+  intValue: 0
+  stringValue: 
