@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1bfecdf14f9ddbc4f9af4b04e90e0dc8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mouseIndicator: {fileID: 6138034863899566982, guid: 713f86a8fde0755479f43622062d26c8, type: 3}
+  - cellIndicator: {instanceID: 0}
+  - cameraScene: {instanceID: 0}
+  - grid: {instanceID: 0}
+  - buildingSound: {instanceID: 0}
+  - leftControllerInputAction: {instanceID: 0}
+  - rightControllerInputAction: {instanceID: 0}
+  - buildLeft: {instanceID: 0}
+  - buildRight: {instanceID: 0}
+  - joystickRight: {instanceID: 0}
+  - gripRightController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

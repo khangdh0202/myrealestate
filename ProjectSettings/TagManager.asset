@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - Ground
+  - PlacementSystem
+  - Building
+  - SnapCollison
+  - GridParrent
+  - Road
+  - RoadCheck
+  - BuildCheck
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Building
+  - Water
+  - UI
+  - Interactable
+  - Player
+  - land
+  - banner
+  - Grid
+  - Hide
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground1
+    uniqueID: 3119527035
+    locked: 0
+  - name: Ground2
+    uniqueID: 3431797707
+    locked: 0
+  - name: Ground3
+    uniqueID: 328943881
+    locked: 0
+  - name: Instance
+    uniqueID: 2235550779
+    locked: 0
+  - name: Front1
+    uniqueID: 2266190681
+    locked: 0
+  - name: Front1
+    uniqueID: 871583239
+    locked: 0
+  - name: Collision
+    uniqueID: 47002179
+    locked: 0

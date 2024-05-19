@@ -1,0 +1,472 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ConstructionModel
+  m_EditorClassIdentifier: 
+  m_GroupName: ConstructionModel
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8c8b212d17d021f4da96efea2d40f1d8
+  m_SerializeEntries:
+  - m_GUID: 7d2a3e6b10ff754459b3f619a0b22e90
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_9et_03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b65f39ca66ec7fc4e8b39ef856a7125d
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_9et_03a.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5eb69a259abef0b44b353ae0837d5764
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_9et_03b.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17ad28e3b260df24480db2f8dd6a7e09
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_9et_02b.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13e16b54a36630b47a45a61f063ef373
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_9et_02a.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c44a70c086ff8184e8229c420d455f5b
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_9et_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8c03799d60ef1e4696251922cde2e33
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_9et_01b.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f1e34f627ea823418d94ad9986dd468
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_9et_01a.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 167ccd36f78cceb46a4d150b76b96fab
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_9et_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0942da8e0756d64fa0dc5f970badb08
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_06.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 462efeb944acff8449ca0adecdc9842d
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_05.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 408af9f2b6062b4449d4b84d945fdd57
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd4517956020aa54989cd9a8a7e55b1b
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_03f.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d90ea0162bb47b54d903c852a6d0f618
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_03e.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e157f42486945e4ca027b80d70c0a5c
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_03d.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af379eb3bb200574a80c24d641fcf853
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_03c.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f96f1899d54a8446b48d5a525237154
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_03b.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53cc8692c5de61148b5301830771ad99
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_03a.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30e869da5c345464eb905a3dfb869ad3
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8459d2d575caf3742b837875922c5e95
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_02a.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f233c5bb4cb5ba41b2d790aede3bcee
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf782ee04eec8b34bb78b9bcf9dab92a
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_01a.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d671b2b3dae0c254ea0925e69cfa667b
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_5et_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 486897b2b94b3664da99ce6f48ac62cb
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_4et_01a.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74f04d972a0675c45ac56c3a8e0f30c4
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_4et_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cfe372357392bfc49a631f6dfb62bbb1
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_2et_01c.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a121d32ef0a226a459036bdbc16455ea
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_2et_01b.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e660989e3cd39b0439ca14e2c7369938
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_2et_01a.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 839cb4cbbcc4c54459297db52332efa1
+    m_Address: Assets/data/model/russian_buildings/prefabs/buildings/rus_build_2et_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f20fd39e8116d74a882d1b04bde5036
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_08_s.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ea9638d8573c2d4996a9946202fca73
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_15_n.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62da88ce44d49764b91100a52cc54548
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_LOD_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2281181ba06c0bc449508d12e4c39e52
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_12.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 348b7b1e9b718254eb222c50d2f1b370
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_15.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a125ecd9eb58a84fbedcf7569256ab1
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_10.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ca4a46b48f6fb84a87185119e94afa3
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_08_n.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e94127c531a7b84fa3fe74ab11fcb48
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_09.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d087ada33197fbb4c88e2c08bd36de20
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_01_n.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db1d4d96b3a27984bad80d2025da46a4
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_11_h.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff3ed2e1350ac7c47ae84197b2bc30b1
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_06_n.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca7b94fc37872004e9f2768ea044e219
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_LOD_03_s.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31c614827e49bca4e84dc40de76059cd
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_01_s.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58698fed29c723f4b89f3ab997c2bc74
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_LOD_02_s.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 268c085af3fc79c4a934b1c5a3d93c39
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_05.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9a0a885c2eede34587e12cd1414003c
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_07.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c308182866d078048836bceee131f2a8
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_01_h.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f2c78467f0bba249a13277b678dfe28
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_15_s.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 190b08caee9510e4094d8fb85df30e6a
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_14.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24ae1851ee4bd6b40903851f84596cc5
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_dec_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0decba82cb0d4eb4e8840b5b450910af
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_17.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4c62de7fe40267429e57431572ebb76
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_06_h.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 396ccf456224e824bb27e11e6cc4f641
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d25ee5b813be1c94299c66797d46b18b
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_11_s.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 390924f77fec34c45bfb999b056631be
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_11_n.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d898f1952a888e5459ca4fa61f69aacb
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_11.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f388489f17c0b746acc5128df2d589a
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_06_s.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61e00fc30250fc14ab813fb1974825d3
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_15_h.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 137c16d46edb11644a9c8a1540a8abb4
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efce089419136f94492f8f54bf755a5c
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_LOD_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f63b585b494c19e408adc8374a32ff38
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_08.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51f4a202923845e439004bfbc487cfe7
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_LOD_01_s.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15ddd6bb39b9c484f9e34dd0b29568bf
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_13.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dede1148035556a438cfe45a35cdd01c
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_16.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3d9cfa77a7007f4ab24707dc8f08d33
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1aa5dc17d671bd448b9a1e9f5b6e7dbe
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_06.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d78c692edad1614f8ef970603cecdca
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_08_h.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4148a9b11b8cdf243a0b164cbe3eb439
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_04.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 027ee668c37651046b8fcc1de158d11b
+    m_Address: Assets/data/model/russian_buildings/textures/rus_build_LOD_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+    - construction
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: dbcb55fdd1727ba4fa3482ed84ec2e4f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6e6f6bfe2728d084d92df023eb1b7156, type: 2}
+    - {fileID: 11400000, guid: 53b7173717a2e6843988e4714644aecf, type: 2}
